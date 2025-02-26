@@ -24,10 +24,3 @@ void MainWindow::on_buttonBox_accepted()
         QMessageBox::information(this,"","Invaild Information");
     }
 }
-
-
-void MainWindow::on_buttonBox_rejected()
-{
-
-}
-
